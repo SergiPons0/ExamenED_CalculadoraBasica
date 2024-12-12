@@ -15,5 +15,6 @@ public class SumaNumeros {
 			System.out.println("La suma de " + numero1 + " y " + numero2 + " es: " + suma);
 			
 			// Cambio realizado desde rama feature-suma
+			// Comentario después de realizar fusión entre ramas
 	}
 }
