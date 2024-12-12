@@ -13,5 +13,7 @@ public class SumaNumeros {
 			int suma = numero1 + numero2;
 			// Imprimimos la suma de los dos numeros introducidos por el usuario
 			System.out.println("La suma de " + numero1 + " y " + numero2 + " es: " + suma);
+			
+			// Cambio realizado desde rama feature-suma
 	}
 }
